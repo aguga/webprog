@@ -1,3 +1,4 @@
+//my prog
 class Bicycle
 {
 private double maxspeed;
